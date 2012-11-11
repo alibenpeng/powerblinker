@@ -1,11 +1,8 @@
 /*
 
-Smartmeter:
+Powerblinker:
 
-Poll Input pins for state change and transmit a packet containing the pin ID if one is detected
-See if this works better than the interrupt-centered solution
-
-Never use any kind of delay function in this code!!!
+Blink LEDs as pulses from the smartmeter are received
 
 */
 
